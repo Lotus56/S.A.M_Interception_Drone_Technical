@@ -18,6 +18,7 @@ cmake_install.cmake
 CTestTestfile.cmake
 Makefile
 !/Makefile
+!/legacy/Makefile
 compile_commands.json
 Testing/
 _deps/
@@ -56,6 +57,7 @@ rosbag2_*/
 
 # Local CUDA MPPI benchmark results
 /artifacts/mppi_benchmark/
+/legacy/artifacts/mppi_benchmark/
 
 # Python cache produced by ROS 2 launch and tooling
 __pycache__/
