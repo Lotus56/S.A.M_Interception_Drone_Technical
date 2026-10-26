@@ -91,7 +91,7 @@ to borrow from as the interceptor grows.
 | | |
 |---|---|
 | **Sofus** | Co-creator · [@Sofustus](https://github.com/Sofustus) |
-| **Alice** | Co-creator |
+| **Alice** | Co-creator · [@Alice-watson](https://github.com/Alice-watson) |
 | **Melinoë** | Co-creator · [@Lotus56](https://github.com/Lotus56) |
 
 The legacy navigation stack is the work of Alexander Aglerimov.
