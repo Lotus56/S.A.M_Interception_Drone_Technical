@@ -8,7 +8,7 @@ bad can happen.**
 *S.A.M* is for its makers: **S**ofus, **A**lice and **M**elinoë.
 
 ![Status: early development](https://img.shields.io/badge/status-early%20development-b07a5a?style=flat-square)
-![Hardware: printing parts](https://img.shields.io/badge/hardware-printing%20parts-5b7f6e?style=flat-square)
+![Hardware: case assembled](https://img.shields.io/badge/hardware-case%20assembled-5b7f6e?style=flat-square)
 [![MIT License](https://img.shields.io/badge/license-MIT-6b7280?style=flat-square)](LICENSE)
 
 [The idea](#the-idea) ·
@@ -90,7 +90,7 @@ to borrow from as the interceptor grows.
 
 | | |
 |---|---|
-| **Sofus** | Co-creator |
+| **Sofus** | Co-creator · [@Sofustus](https://github.com/Sofustus) |
 | **Alice** | Co-creator |
 | **Melinoë** | Co-creator · [@Lotus56](https://github.com/Lotus56) |
 
