@@ -14,6 +14,7 @@ bad can happen.**
 [The idea](#the-idea) ·
 [How it will work](#how-it-will-work) ·
 [Drone parts](hardware/parts/) ·
+[Components](hardware/components.md) ·
 [Where we come from](#where-we-come-from) ·
 [The team](#the-team)
 
@@ -62,7 +63,8 @@ and notes as it takes shape.
 ```text
 .
 ├── hardware/
-│   └── parts/     the 3D-printed drone parts: print files and photos of each print
+│   ├── components.md  the electronics and bought parts, for the drone and the ground station
+│   └── parts/         the 3D-printed drone parts: print files and photos of each print
 ├── legacy/        the navigation project we started from, kept as it was
 ├── LICENSE
 └── README.md
