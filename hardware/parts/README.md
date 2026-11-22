@@ -2,7 +2,8 @@
 
 The parts of the S.A.M airframe that we print ourselves. Every part has its
 print file and a photo of how the print came out, so anyone can see what
-we used and what it should look like.
+we used and what it should look like. The electronics and other bought
+parts are listed in [components.md](../components.md).
 
 ## The case so far
 
